@@ -1,0 +1,9 @@
+{
+  "name": "TodoAppFSD",
+  "version": "1.0.0",
+  "description": "React application todo-app with FSD architecture",
+  "main": "index.js",
+  "author": "Insaf",
+  "license": "MIT",
+  "packageManager": "yarn@4.1.0"
+}
